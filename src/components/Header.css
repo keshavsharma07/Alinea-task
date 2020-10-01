@@ -9,6 +9,7 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     line-height: 1.5;
     letter-spacing: 1px;
+    
 
 
 
@@ -72,4 +73,12 @@
 .btn1::before{
     height: 100%;
 } */
- 
+.drop{
+    background-color: rgb(255, 255, 255);
+    font-family: sans-serif;
+    font-weight: bold;
+    letter-spacing: 2px;
+    font-variant: normal;
+    color: grey;
+    box-shadow: 0 1px 4px rgb(158, 150, 150);
+}

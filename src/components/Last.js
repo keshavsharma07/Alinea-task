@@ -1,6 +1,7 @@
 import React from 'react';
 import { Card, Button,ListGroup, ListGroupItem ,ProgressBar,Badge} from 'react-bootstrap';
 import { CardBody } from 'reactstrap';
+import {FadeTransform} from 'react-animation-components';
 import './Last.css';
 function Last() {
     return (
@@ -9,6 +10,8 @@ function Last() {
             <div className="row">
 
                 <div className="col ">
+                    
+
                     <Card className="Card" style={{ width: '21rem' }}>
                         <Card.Img variant="top" className="image" src="https://juno-public.s3-us-west-1.amazonaws.com/Juno/juno-black-card%403x.png" />
                         <Card.Body>
