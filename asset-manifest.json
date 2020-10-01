@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Alinea-task/static/css/main.32acc2b8.chunk.css",
+    "main.js": "/Alinea-task/static/js/main.17db7d52.chunk.js",
+    "main.js.map": "/Alinea-task/static/js/main.17db7d52.chunk.js.map",
+    "runtime-main.js": "/Alinea-task/static/js/runtime-main.a8021797.js",
+    "runtime-main.js.map": "/Alinea-task/static/js/runtime-main.a8021797.js.map",
+    "static/css/2.69aac891.chunk.css": "/Alinea-task/static/css/2.69aac891.chunk.css",
+    "static/js/2.d91ad43b.chunk.js": "/Alinea-task/static/js/2.d91ad43b.chunk.js",
+    "static/js/2.d91ad43b.chunk.js.map": "/Alinea-task/static/js/2.d91ad43b.chunk.js.map",
+    "index.html": "/Alinea-task/index.html",
+    "precache-manifest.b8350fc493474b90c7de562bd56d73d4.js": "/Alinea-task/precache-manifest.b8350fc493474b90c7de562bd56d73d4.js",
+    "service-worker.js": "/Alinea-task/service-worker.js",
+    "static/css/2.69aac891.chunk.css.map": "/Alinea-task/static/css/2.69aac891.chunk.css.map",
+    "static/css/main.32acc2b8.chunk.css.map": "/Alinea-task/static/css/main.32acc2b8.chunk.css.map",
+    "static/js/2.d91ad43b.chunk.js.LICENSE.txt": "/Alinea-task/static/js/2.d91ad43b.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/Alinea-task/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8021797.js",
+    "static/css/2.69aac891.chunk.css",
+    "static/js/2.d91ad43b.chunk.js",
+    "static/css/main.32acc2b8.chunk.css",
+    "static/js/main.17db7d52.chunk.js"
+  ]
+}
